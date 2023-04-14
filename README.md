@@ -1,1 +1,1 @@
-# stat_mech_sose23
+# Statistical Mechanics So/Se 2023
