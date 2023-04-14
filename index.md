@@ -1,5 +1,3 @@
-Here you can find the excercises sheets and some extra complementary contents
-
 # Worksheets
 
 - Topic 1 
