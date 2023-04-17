@@ -1,8 +1,8 @@
 # Worksheets
 
-- Topic 1 [Download](./files/whorksheet.pdf "download")
+- Fri 21st
 - 
 
 # References 
 
-- Kardar, M. (2007). Statistical Physics of Particles. Cambridge: Cambridge University Press. [doi:10.1017/CBO9780511815898](doi:10.1017/CBO9780511815898).
+Greiner, W., Neise, L., & Stöcker, H. (2012). Thermodynamics and statistical mechanics. Springer Science & Business Media. [link](https://link.springer.com/book/10.1007/978-1-4612-0827-3)
