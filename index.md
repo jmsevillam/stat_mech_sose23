@@ -1,6 +1,6 @@
 # Worksheets
 
-- Set 1 [Available on Fri 21st]
+- Set 1 [link](https://jmsevillam.github.io/stat_mech_sose23/files/Worksheet_1.pdf #Download)
 
 # References 
 
