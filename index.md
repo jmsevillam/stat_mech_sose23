@@ -1,7 +1,8 @@
 # Worksheets
 
 - Set 1 [link](https://jmsevillam.github.io/stat_mech_sose23/files/worksheet_1.pdf "#download") - Sol [link](https://jmsevillam.github.io/stat_mech_sose23/files/worksheet_1_sol.pdf "#download")
-- Set 2 [link](https://jmsevillam.github.io/stat_mech_sose23/files/worksheet_2.pdf "#download") [sol. Available 04.05]
+- Set 2 [link](https://jmsevillam.github.io/stat_mech_sose23/files/worksheet_2.pdf "#download") - Sol [link](https://jmsevillam.github.io/stat_mech_sose23/files/worksheet_2_sol.pdf "#download")
+- Set 3 [link](https://jmsevillam.github.io/stat_mech_sose23/files/worksheet_3.pdf "#download") - Sol [link]
 
 # References 
 
