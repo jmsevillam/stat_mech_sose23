@@ -7,3 +7,5 @@
 # References 
 
 - Greiner, W., Neise, L., & Stöcker, H. (2012). Thermodynamics and statistical mechanics. Springer Science & Business Media. [link](https://link.springer.com/book/10.1007/978-1-4612-0827-3)
+- Huang, K., (1991). Statistical Mechanics, Second Edition. Wiley. [link](https://www.wiley.com/en-us/Statistical+Mechanics%2C+2nd+Edition-p-9780471815181)
+- Kardar, M. (2007). Statistical Physics of Particles. Cambridge: Cambridge University Press. [link](https://doi.org/10.1017/CBO9780511815898)
