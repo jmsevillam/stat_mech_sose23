@@ -16,6 +16,7 @@
 - Set 9 [link](https://jmsevillam.github.io/stat_mech_sose23/files/worksheet_9.pdf "#download") - Solutions [link](https://jmsevillam.github.io/stat_mech_sose23/files/worksheet_9_sol.pdf "#download")
 - Set 10 [link](https://jmsevillam.github.io/stat_mech_sose23/files/worksheet_10.pdf "#download") - Solutions [link](https://jmsevillam.github.io/stat_mech_sose23/files/worksheet_10_sol.pdf "#download")
 - Set 11 [link](https://jmsevillam.github.io/stat_mech_sose23/files/worksheet_11.pdf "#download") - Solutions [link]
+- Set 12 [link](https://jmsevillam.github.io/stat_mech_sose23/files/worksheet_12.pdf "#download") - Solutions [link]
 
 
 # References 
